@@ -23,7 +23,7 @@ elseif a=="qklplk2"then
 _G.shuibei=true
 elseif a=="kuaishouyusi"then
 _G.shuibei=true
-elseif a=="玩家用户名"then
+elseif a=="lemonade_never"then
 _G.shuibei=true
 elseif a=="玩家用户名"then
 _G.shuibei=true
