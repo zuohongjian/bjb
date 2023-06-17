@@ -21,7 +21,7 @@ elseif a=="Apsp666"then
 _G.shuibei=true
 elseif a=="qklplk2"then
 _G.shuibei=true
-elseif a=="玩家用户名"then
+elseif a=="kuaishouyusi"then
 _G.shuibei=true
 elseif a=="玩家用户名"then
 _G.shuibei=true
