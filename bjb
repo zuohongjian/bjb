@@ -1,1 +1,1 @@
-print("链接失效了")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zuohongjian/bjb/main/ZS", true))()
