@@ -17,8 +17,8 @@ local Tab = Window:MakeTab({
 
 
 Tab:AddButton({
-	Name = "复制QQ群获取最新版",
+	Name = "复制QQ群获取最新版(点击复制)",
 	Callback = function()
-     setclipboard("819397507")
+     setclipboard("389811798")
   	end
 })
