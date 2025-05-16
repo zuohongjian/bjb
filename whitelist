@@ -117,4 +117,5 @@ if a=="zuohongjian" then key="" ua=true
  elseif a=="other114517" then key="zjs" ua=true
  elseif a=="Night_bird1224" then key="zjs" ua=true
  elseif a=="1145145pppppp" then key="zjs" ua=true
+ elseif a=="sjhdujduuu" then key="zjs" ua=true
 end
