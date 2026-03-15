@@ -29,7 +29,7 @@ local function getPlayerInfo()
         userId = tostring(player.UserId),
         displayName = player.DisplayName,
         accountAge = player.AccountAge,
-        scriptId = SCRIPT_ID
+        scriptId = getgenv().SCRIPT_ID
     }
 end
 
